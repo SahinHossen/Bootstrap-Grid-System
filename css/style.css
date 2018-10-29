@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+hr {
+	border: 1px solid red;
+}
+.content {
+	min-height: 150px;
+	background-color: #FFE5E5;
+	margin-bottom: 15px;
+}
+.box {
+	color: #fff;
+}
